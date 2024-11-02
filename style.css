@@ -311,7 +311,7 @@
   .hero {
     position: relative;
     min-height: 100vh;
-    background-color: #858cf3;
+    background-color: black;
     border-bottom: 2px solid #000;
   }
   .hero__container {
@@ -480,7 +480,7 @@
     transition: scale 0.1s ease 0s;
   }
   .how {
-    background-color: #655bf5;
+    background-color: black;
     border-bottom: 2px solid #000;
   }
   .how__container {
@@ -491,7 +491,7 @@
     flex: 1 1 auto;
   }
   .how__title {
-    color: #000;
+    color: white;
     font-family: 'Daft Brush';
     font-style: normal;
     font-weight: 400;
@@ -524,7 +524,7 @@
   }
   .how__step-title span:nth-child(1) {
     flex-shrink: 0;
-    color: #000;
+    color: white;
     font-family: 'Daft Brush';
     font-style: normal;
     font-weight: 400;
@@ -537,14 +537,14 @@
     justify-content: center;
   }
   .how__step-title span:nth-child(2) {
-    color: #000;
+    color: white;
     font-family: 'Daft Brush';
     font-style: normal;
     font-weight: 400;
     line-height: normal;
   }
   .how__step-text {
-    color: #000;
+    color: white;
     font-family: 'GoodDog New';
     font-style: normal;
     font-weight: 400;
